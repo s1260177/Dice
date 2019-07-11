@@ -4,7 +4,7 @@
 
 int main()
 {
-  int first,second,total;
+  int first,second,third,fourth,total,total2;
   char name[10];
   srand(time(NULL));
   first = rand()%6+1;
